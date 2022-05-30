@@ -1,4 +1,4 @@
-# A Simple Class
+# A Simple Class to show how to create an object
 
 class Car:
     def __init__(self):
